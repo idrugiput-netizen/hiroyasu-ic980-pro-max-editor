@@ -1,4 +1,4 @@
-![Editor Screenshot](Screenshot.png)
+![Editor Screenshot](english.png)
 
 https://idrugiput-netizen.github.io/hiroyasu-ic980-pro-max-editor/
 # Hiroyasu IC-980 Pro Max Channel Editor
